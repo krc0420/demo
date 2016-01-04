@@ -11,6 +11,7 @@ namespace Demo1
         static void Main(string[] args)
         {
             Console.WriteLine("David Add");
+            Console.WriteLine("David Add2");
         }
     }
 }
